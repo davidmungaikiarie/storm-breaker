@@ -1,0 +1,14 @@
+Storm breaker is a social engineering tool that can be used to access the location, webcam, microphone, and Os Password Grabber Using Ngrok Link.
+Features:
+It can get device information.
+It can provide location.
+Fetch Os Password.
+It can access Webcam.
+It can access the microphone.
+Requirements:
+Python 3
+pip 3
+Installation:
+First clone the tool from the GitHub repository, by:
+
+git clone https://github.com/ultrasecurity/Storm-Breaker
